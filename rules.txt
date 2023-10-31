@@ -1,0 +1,7 @@
+Pure functional programming has a set of rules to follow:
+1) No state
+2) Pure functions
+3) No side effects
+4) Higher order functions:
+    - The function takes one or more functions as parameters.
+    - The function returns another function as a result.
